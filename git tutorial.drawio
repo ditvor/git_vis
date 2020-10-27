@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T13:34:44.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="o-zKyOqegO7pfRL7zWvm" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T14:32:56.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="3NtNdO-TUzqM8OrF_6eL" version="13.8.3" type="github" pages="3">
   <diagram id="HNbkrDmMATUYtOj_NLXu" name="Page-1">
     <mxGraphModel dx="925" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VRCVtr-r6w-o3vsTxJad" name="Page-2">
-    <mxGraphModel dx="1048" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cDvjjpsZIGhPPcaaCtpU-0" />
         <mxCell id="cDvjjpsZIGhPPcaaCtpU-1" parent="cDvjjpsZIGhPPcaaCtpU-0" />
@@ -252,7 +252,7 @@
             <mxPoint x="803.9999999999998" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Lh3P7efRWpOcmWdev-7-23" value="&lt;h1&gt;Создание новых веток&lt;/h1&gt;&lt;p&gt;1. Для того, чтобы мы могли отправлять код Руслану на ревью, необходим процесс слияния веток. Это можно достичь создав дополнительную ветку в нашем локальном репозитории. Команда&amp;nbsp;&lt;u&gt;git branch practice02&lt;/u&gt;. &amp;nbsp;Просмотр наличия локальных веток:&amp;nbsp;&lt;u&gt;git branch&lt;/u&gt;.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Проверить, что ветки совпадают можно командой &lt;u&gt;git diff master practice02&lt;/u&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Чтобы переключиться на ветку practice02 необходимо выполнить команду &lt;u&gt;git checkout practice02&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cDvjjpsZIGhPPcaaCtpU-1">
+        <mxCell id="8Lh3P7efRWpOcmWdev-7-23" value="&lt;h1&gt;Создание новых веток&lt;/h1&gt;&lt;p&gt;1. Для того, чтобы мы могли отправлять код Руслану на ревью, необходим процесс слияния веток. Это можно достичь создав дополнительную ветку в нашем локальном репозитории. Команда&amp;nbsp;&lt;u&gt;git branch practice02&lt;/u&gt;. &amp;nbsp;Просмотр наличия локальных веток:&amp;nbsp;&lt;u&gt;git branch&lt;/u&gt;.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Проверить, что ветки совпадают можно командой &lt;u&gt;git diff master practice02&lt;/u&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Чтобы переключиться на ветку practice02 необходимо выполнить команду &lt;u&gt;git checkout practice02&lt;/u&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cDvjjpsZIGhPPcaaCtpU-1">
           <mxGeometry x="524" y="610" width="280" height="430" as="geometry" />
         </mxCell>
         <mxCell id="8Lh3P7efRWpOcmWdev-7-28" value="origin/master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="cDvjjpsZIGhPPcaaCtpU-1">
@@ -398,6 +398,221 @@
         </mxCell>
         <mxCell id="WD200NubPugf16sTyfVI-2" value="practice02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="cDvjjpsZIGhPPcaaCtpU-1">
           <mxGeometry x="334" y="950" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sxPEGpMqfRqEumEdPoXJ" name="Page-3">
+    <mxGraphModel dx="925" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rxPvgsLaUtpMQ1FRQoep-0" />
+        <mxCell id="rxPvgsLaUtpMQ1FRQoep-1" parent="rxPvgsLaUtpMQ1FRQoep-0" />
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="19.75" y="290" width="166" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-0" value="&lt;h1&gt;Вносим локальные изменения&lt;/h1&gt;&lt;p&gt;Теперь мы находимся в ветке practice02.&lt;/p&gt;&lt;p&gt;1. Выполняем решения или вносим изменения в файлы на локальной машине. Сохраняем наши изменения.&lt;/p&gt;&lt;p&gt;Командой &lt;u&gt;git status&lt;/u&gt;&amp;nbsp;можем отследить в каких файлах были выполнены изменения. Теперь необходимо добавить эти изменения в нашу ветку practice02.&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. Командой &lt;u&gt;git add is_odd.py&lt;/u&gt;&amp;nbsp;выбираем файлы, которые будут внесены будущим коммитом.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. Выполняем коммит командой &lt;u&gt;git commit -m &#39;my new commit&#39;&lt;/u&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Выполняем проверку успешности операции. Проверяем всё ли ушло в коммит через команду &lt;u&gt;git status&lt;/u&gt; и также проверяем что у нас появилась отличия в ветках &lt;u&gt;git diff master&lt;/u&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="524" y="150" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="84" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-2" value="aedeph-co/lup2-9-2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="74" y="610" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="324" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-4" value="ditvor/lup2-9-2020&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="600" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#82b366;fillColor=#d5e8d4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1" source="V1WQXxPW3fPnO6_QR-O_-77" target="V1WQXxPW3fPnO6_QR-O_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-6" value="" style="shape=link;html=1;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="44" y="570" as="sourcePoint" />
+            <mxPoint x="803.9999999999998" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-7" value="&lt;h1&gt;Отправляем локальные изменения на сервер&lt;/h1&gt;&lt;p&gt;1. Используем команду &lt;u&gt;git push&lt;/u&gt;, чтобы отправить локальные изменения на удалённый репозиторий в точно такую же ветку. Если такой ветки нет, выпдает ошибка и необходимо ввести команду&amp;nbsp;&lt;u&gt;git push --set-upstream origin practice02&lt;/u&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. Чтобы Руслан мог увидеть изменения и ему пришло уведомление необходимо перейти в свой аккаунт на GitHub и нажать &quot;Compare and Pull Request&quot;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Здесь необходимо выбрать, что мы устраиваем merge из нашей ветки practice02 в нашу же ветку master. Эти ветки обе находятся в удаленном репозитории.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="524" y="610" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-8" value="origin/master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="348" y="690" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-9" value="&lt;font style=&quot;font-size: 8px&quot;&gt;forked from aedeph-co/lup2-9-2020&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="319" y="610" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="84" y="640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-11" value="master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="334" y="950" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-12" value="central/master" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="104" y="690" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-14" value="git push" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="400" y="815" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="434" y="780" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-16" value="&lt;h1&gt;LevelUp git interaction tutorial&lt;/h1&gt;&lt;p&gt;Небольшой наглядный гайд по взаимодействию между учителем и студентом с помощью git-а. Условные обозначения приведены внизу страницы. Подчеркнутый текст - команды для терминала.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="89" y="30" width="590" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-17" value="" style="shape=link;html=1;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="44" y="1049.9999999999998" as="sourcePoint" />
+            <mxPoint x="803.9999999999998" y="1049.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-18" value="git clone" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="34" y="1080" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-19" value="Руслан залил&amp;nbsp;&lt;br&gt;обновления" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="39" y="1120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-20" value="выполняемый код" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="160" y="1080" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-21" value="изменение состояния" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="160" y="1125" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="880" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-24" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323.9999999999998" y="1089.8200000000002" as="sourcePoint" />
+            <mxPoint x="390" y="1089.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-25" value="связь через remote" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="414" y="1080" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-26" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323.9999999999998" y="1134.8200000000002" as="sourcePoint" />
+            <mxPoint x="390" y="1134.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-27" value="отправка update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="414" y="1125" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-28" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.9999999999998" y="1089.8200000000002" as="sourcePoint" />
+            <mxPoint x="646" y="1089.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-29" value="создание репозитория" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="660" y="1080" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-30" value="" style="endArrow=classic;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.9999999999998" y="1134.8200000000002" as="sourcePoint" />
+            <mxPoint x="646" y="1134.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-31" value="перемещение данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="660" y="1125" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="84" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-33" value="aedeph-co/lup2-9-2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="74" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="324" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-35" value="ditvor/lup2-9-2020&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="160" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-37" value="&lt;font style=&quot;font-size: 8px&quot;&gt;forked from aedeph-co/lup2-9-2020&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="319" y="170" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="84" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-39" value="master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="334" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-40" value="central/master" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="104" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="314" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-46" value="origin/master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="348" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="324" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="319" y="640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-50" value="practice02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="333.5" y="930" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-51" value="practice02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="334" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-52" value="is_odd.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="40" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-53" value="Вносим изменения в:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="40" y="300" width="125.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-55" value="Добавляем в список файлов для будущего коммита" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="35.25" y="370" width="131" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-56" value="is_odd.py" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="40.75" y="405" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#82b366;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;" edge="1" parent="rxPvgsLaUtpMQ1FRQoep-1" source="V1WQXxPW3fPnO6_QR-O_-57" target="V1WQXxPW3fPnO6_QR-O_-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-57" value="is_odd.py" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="40" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-58" value="Коммитим" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="34.5" y="440" width="125.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="374" y="440" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-45" value="local /lup2-9-2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="304" y="450" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-65" value="git commit -m &#39;commit text&#39;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="110" y="520" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-66" value="git add is_odd.py" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="138.75" y="405" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-67" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="92.75" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-68" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="10" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-69" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="84" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="374" y="880" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1WQXxPW3fPnO6_QR-O_-23" value="local /lup2-9-2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rxPvgsLaUtpMQ1FRQoep-1">
+          <mxGeometry x="304" y="890" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
